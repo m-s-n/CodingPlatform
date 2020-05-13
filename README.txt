@@ -24,4 +24,4 @@ Step By Step Process for Running
 2) Open the repository in Explorer view
 3) Run the Homepage.html, you can visit all pages from this webpages.
 
-Last Modified - 02-05-2020
+Last Modified - More functionalaties are been added.
