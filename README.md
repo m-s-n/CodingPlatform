@@ -1,6 +1,6 @@
-## CODING PLATFORM
+# CODING PLATFORM
 ## Web Technology Project
-# Prepared By:- Group No. 11
+## Prepared By:- Group No. 11
 S No.   Name                    Roll No.                        EmailID
 1)      Mayank Singh            00420907218                     msn2106@gmail.com
 2)      Himanshu Kumar          00320907218                     himanshubolt3@gmail.com
